@@ -4,6 +4,7 @@ Personal notes and references for learning Houdini
 # Domains
 * [Basics](./basics.md)
 * [Modeling](./modeling.md)
+* [Procedural Modeling](./procedural-modeling.md)
 * [Lighting](./lighting.md)
 * [Animation](./animation.md)
 * [Autonomous](./autonomous.md)
