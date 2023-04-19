@@ -2,7 +2,7 @@
 Personal notes and references for learning Houdini
 
 # Domains
-* [Concepts](./concepts.md)
+* [Basics](./basics.md)
 * [Modeling](./modeling.md)
 * [Lighting](./lighting.md)
 * [Animation](./animation.md)
